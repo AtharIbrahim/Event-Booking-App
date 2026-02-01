@@ -171,9 +171,9 @@ This project is private and not licensed for public use.
 
 ## 👤 Author
 
-**Muhammad Humayun Amar**
+**Athar Ibrahim Khalid**
 
-- GitHub: [@amarhumayunx](https://github.com/amarhumayunx)
+- GitHub: [@amarhumayunx](https://github.com/AtharIbrahim/Event-Booking-App/)
 
 ## 🙏 Acknowledgments
 
